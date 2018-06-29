@@ -1,0 +1,20 @@
+C:\Documents and Settings\Administrator\桌面\TCP\TcpCSFramework\bin\Debug\TcpCSFramework.dll
+C:\Documents and Settings\Administrator\桌面\TCP\TcpCSFramework\bin\Debug\TcpCSFramework.pdb
+C:\Documents and Settings\Administrator\桌面\TCP\TcpCSFramework\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\TCP\TcpCSFramework\obj\Debug\TcpCSFramework.dll
+C:\Documents and Settings\Administrator\桌面\TCP\TcpCSFramework\obj\Debug\TcpCSFramework.pdb
+D:\landy\系统平台\TCP\TcpCSFramework\bin\Debug\TcpCSFramework.dll
+D:\landy\系统平台\TCP\TcpCSFramework\bin\Debug\TcpCSFramework.pdb
+D:\landy\系统平台\TCP\TcpCSFramework\obj\Debug\ResolveAssemblyReference.cache
+D:\landy\系统平台\TCP\TcpCSFramework\obj\Debug\TcpCSFramework.dll
+D:\landy\系统平台\TCP\TcpCSFramework\obj\Debug\TcpCSFramework.pdb
+E:\landy\myproject\TCPScoket\TcpCSFramework\bin\Debug\TcpCSFramework.dll
+E:\landy\myproject\TCPScoket\TcpCSFramework\bin\Debug\TcpCSFramework.pdb
+E:\landy\myproject\TCPScoket\TcpCSFramework\obj\Debug\ResolveAssemblyReference.cache
+E:\landy\myproject\TCPScoket\TcpCSFramework\obj\Debug\TcpCSFramework.dll
+E:\landy\myproject\TCPScoket\TcpCSFramework\obj\Debug\TcpCSFramework.pdb
+E:\项目\未分类\TCPScoket\TcpCSFramework\bin\Debug\TcpCSFramework.dll
+E:\项目\未分类\TCPScoket\TcpCSFramework\bin\Debug\TcpCSFramework.pdb
+E:\项目\未分类\TCPScoket\TcpCSFramework\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\未分类\TCPScoket\TcpCSFramework\obj\Debug\TcpCSFramework.dll
+E:\项目\未分类\TCPScoket\TcpCSFramework\obj\Debug\TcpCSFramework.pdb

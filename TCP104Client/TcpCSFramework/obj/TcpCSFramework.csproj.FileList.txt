@@ -1,0 +1,5 @@
+bin\Debug\TcpCSFramework.dll
+bin\Debug\TcpCSFramework.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TcpCSFramework.dll
+obj\Debug\TcpCSFramework.pdb

@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Configration branchNumber="5" siteNumber="17">
+  <Branch id="1" title="平陆5709支线" addressNumber="7">
+    <Site id="1" title="坡底支线13号杆">
+      <phone>15296716474</phone>
+      <address>1</address>
+      <gprs>SXPL0010001</gprs>
+      <type>2</type>
+      <ip>192.168.1.102</ip>
+    </Site>
+    <Site id="3" title="坡底支线19号杆">
+      <phone>15296716753</phone>
+      <address>4</address>
+      <gprs>SXPL0010002</gprs>
+      <type>-1</type>
+      <ip>192.168.1.103</ip>
+    </Site>
+    <Site id="4" title="坡底支线25号杆">
+      <phone>15296716334</phone>
+      <address>5</address>
+      <gprs>SXPL0010003</gprs>
+      <type>2</type>
+      <ip>192.168.1.104</ip>
+    </Site>
+    <Site id="5" title="坡底支线37号杆">
+      <phone>15235954710</phone>
+      <address>6</address>
+      <gprs>SXPL0010004</gprs>
+      <type>-1</type>
+      <ip>192.168.1.105</ip>
+    </Site>
+    <Site id="6" title="坡底支线38号杆">
+      <phone>15296716510</phone>
+      <address>7</address>
+      <gprs>SXPL0010005</gprs>
+      <type>2</type>
+      <ip>192.168.1.106</ip>
+    </Site>
+  </Branch>
+  <Branch id="2" title="平陆5713支线" addressNumber="6">
+    <Site id="7" title="向阳支线31号杆">
+      <phone>15296716884</phone>
+      <address>1</address>
+      <gprs>SXPL0020001</gprs>
+      <type>2</type>
+      <ip>192.168.1.107</ip>
+    </Site>
+    <Site id="8" title="粮宿支线45号杆">
+      <phone>15235954535</phone>
+      <address>2</address>
+      <gprs>SXPL0020002</gprs>
+      <type>2</type>
+      <ip>192.168.1.108</ip>
+    </Site>
+    <Site id="9" title="向阳支线32号杆">
+      <phone>15296716884</phone>
+      <address>3</address>
+      <gprs>SXPL0020003</gprs>
+      <type>-1</type>
+      <ip>192.168.1.109</ip>
+    </Site>
+    <Site id="10" title="粮宿支线33号杆">
+      <phone>15235954535</phone>
+      <address>4</address>
+      <gprs>SXPL0020004</gprs>
+      <type>2</type>
+      <ip>192.168.1.110</ip>
+    </Site>
+    <Site id="11" title="向阳支线34号杆">
+      <phone>15296716884</phone>
+      <address>5</address>
+      <gprs>SXPL0020005</gprs>
+      <type>-1</type>
+      <ip>192.168.1.111</ip>
+    </Site>
+  </Branch>
+  <Branch id="4" title="平陆5711支线" addressNumber="6">
+    <Site id="12" title="郭原支线03号杆">
+      <phone>15296716834</phone>
+      <address>1</address>
+      <gprs>SXPL0030001</gprs>
+      <type>2</type>
+      <ip>192.168.1.112</ip>
+    </Site>
+    <Site id="13" title="郭原支线04号杆">
+      <phone>15296716753</phone>
+      <address>2</address>
+      <gprs>SXPL0030002</gprs>
+      <type>2</type>
+      <ip>192.168.1.113</ip>
+    </Site>
+    <Site id="14" title="郭原支线05号杆">
+      <phone>15296716334</phone>
+      <address>3</address>
+      <gprs>SXPL0030003</gprs>
+      <type>2</type>
+      <ip>192.168.1.114</ip>
+    </Site>
+    <Site id="15" title="郭原支线07号杆">
+      <phone>15296716510</phone>
+      <address>4</address>
+      <gprs>SXPL0030005</gprs>
+      <type>2</type>
+      <ip>192.168.1.115</ip>
+    </Site>
+    <Site id="16" title="郭原支线06号杆">
+      <phone>15235954710</phone>
+      <address>5</address>
+      <gprs>SXPL0030005</gprs>
+      <type>2</type>
+      <ip>192.168.1.116</ip>
+    </Site>
+  </Branch>
+</Configration>

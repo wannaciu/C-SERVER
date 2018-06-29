@@ -1,0 +1,5 @@
+G:\stu\课程设计实践周\TCP104Client\TCP104Client\obj\x86\Release\TCP104Client.csprojResolveAssemblyReference.cache
+G:\stu\课程设计实践周\TCP104Client\TCP104Client\obj\x86\Release\TCP104Client.Form1.resources
+G:\stu\课程设计实践周\TCP104Client\TCP104Client\obj\x86\Release\TCP104Client.Properties.Resources.resources
+G:\stu\课程设计实践周\TCP104Client\TCP104Client\obj\x86\Release\TCP104Client.csproj.GenerateResource.cache
+G:\stu\课程设计实践周\TCP104Client\TCP104Client\obj\x86\Release\TCP104Client.csproj.CoreCompileInputs.cache

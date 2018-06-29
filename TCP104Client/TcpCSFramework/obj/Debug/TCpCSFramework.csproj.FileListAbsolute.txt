@@ -1,0 +1,6 @@
+G:\c#\课程设计实践周\版本1\TCP104Service\TcpCSFramework\bin\Debug\TcpCSFramework.dll
+G:\c#\课程设计实践周\版本1\TCP104Service\TcpCSFramework\bin\Debug\TcpCSFramework.pdb
+G:\c#\课程设计实践周\版本1\TCP104Service\TcpCSFramework\obj\Debug\TCpCSFramework.csprojResolveAssemblyReference.cache
+G:\c#\课程设计实践周\版本1\TCP104Service\TcpCSFramework\obj\Debug\TCpCSFramework.csproj.CoreCompileInputs.cache
+G:\c#\课程设计实践周\版本1\TCP104Service\TcpCSFramework\obj\Debug\TcpCSFramework.dll
+G:\c#\课程设计实践周\版本1\TCP104Service\TcpCSFramework\obj\Debug\TcpCSFramework.pdb
